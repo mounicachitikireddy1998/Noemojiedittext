@@ -9,7 +9,7 @@ Add the following dependency to your app's build.gradle file:
 
 # gradle
 ```gradle
-implementation 'com.github.insomaniacvenkat:Noemojiedittext:Initial'
+implementation 'com.github.mounicachitikireddy1998:Noemojiedittext:Initial'
 ```
 Sync your project to ensure the new dependency is resolved.
 
@@ -18,7 +18,7 @@ Using the NoEmojiEditText component is straightforward. Simply include it in you
 
 # xml
 ```xml
-<com.shreyasvenkat.noemojiedittext.NoEmojiEditText
+<com.mounicach.noemojiedittext.NoEmojiEditText
     android:id="@+id/noEmojiEditText"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
